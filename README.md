@@ -1,1 +1,4 @@
 # k-nn_algortimopreditivo_iris_UFMS
+
+
+A aprendizagem de máquina foca em desenvolver algoritmos que permitem aos computadores aprender com os dados e tomar decisões ou fazer previsões sem serem explicitamente programados para cada tarefa, identificando padrões complexos em grandes volumes de informação. As regressões servem para prever valores contínuos, como estimar o preço de um imóvel com base em suas características (área, localização) ou prever a demanda de vendas de uma loja para o próximo trimestre. As árvores de decisão são usadas para classificação, ajudando a determinar, por exemplo, o risco de crédito de um cliente (aprovar ou negar) ou em diagnósticos médicos preliminares baseados em sintomas. Um exemplo clássico do algoritmo preditivo k-NN seria em sistemas de recomendação, como os da Netflix ou Spotify, onde o algoritmo sugere um novo filme ou música baseando-se nos itens consumidos pelos 'vizinhos' (usuários com gostos mais próximos) do seu perfil.
